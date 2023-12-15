@@ -1,0 +1,11 @@
+plant_disease_detection/
+|-- static/
+|   `-- uploaded_images/
+|-- templates/
+|   `-- index.html
+|-- app.py
+|-- model.h5
+|-- requirements.txt
+|-- Procfile
+|-- runtime.txt
+`-- README.md
